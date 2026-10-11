@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "123",
+      "name": "john",
+      "isActive": 1
+    },
+    {
+      "id": "ZbVvtADZiMQ",
+      "name": "ggg",
+      "isActive": true
+    },
+    {
+      "id": "yplW6sN1oTA",
+      "name": "ggg",
+      "isActive": true
+    },
+    {
+      "id": "vMCYjXuGaNw",
+      "name": "ggg",
+      "isActive": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
